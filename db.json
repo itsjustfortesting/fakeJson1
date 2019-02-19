@@ -1,0 +1,18 @@
+{
+	"casesData": [
+		{
+			caseNumber: "12435",
+			companyName: "Janusz Travel",
+			statementContent: "Oœwiadczam, ¿e organizator/przedsiêbiorca u³atwiaj¹cy nabywanie powi¹zanych us³ug turystycznych Janusz Travel z siedzib¹ w ul. Koœlawa 25/3, 01-222 Warszawa nie wykona³ wzglêdem mnie zobowi¹zañ umownych o wartoœci wskazanej powy¿ej.",
+			insuranceStartDate: "2019-01-01",
+			guaranteeEndDate: "2019-03-01"
+		},
+		{
+			caseNumber: "6789",
+			companyName: "Travelpolex",
+			statementContent: "Oœwiadczam, ¿e organizator/przedsiêbiorca u³atwiaj¹cy nabywanie powi¹zanych us³ug turystycznych Janusz Travel z siedzib¹ w ul. Koœlawa 25/3, 01-222 Warszawa nie wykona³ wzglêdem mnie zobowi¹zañ umownych o wartoœci wskazanej powy¿ej.",
+			insuranceStartDate: "2018-01-01",
+			guaranteeEndDate: "2018-03-01"
+		}
+	]
+}
